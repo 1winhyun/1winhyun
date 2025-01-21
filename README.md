@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=linear-gradient(to right, #2bc0e4, #eaecc6)&text=seunghyun's%20github&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=linear-gradient(to%20right,%20%232bc0e4,%20%23eaecc6)&text=seunghyun's%20github&fontColor=FFFFFF)
 
 <!--
 **1winhyun/1winhyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
