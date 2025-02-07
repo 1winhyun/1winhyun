@@ -30,7 +30,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1winhyun&show_icons=true&theme=radical" alt="1winhyun's GitHub stats" />
-  <img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=dede10" />
+  <a href="https://solved.ac/dede10">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dede10" alt="Solved.ac Profile" />
+  </a>
 </p>
 
 <!--
