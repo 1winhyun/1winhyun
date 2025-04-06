@@ -27,6 +27,9 @@
 - 가천대학교 전용 중고거래 서비스 [Monngchee](https://github.com/Moong-Chee/MoongChee-BE)
 - 온라인 초대장 서비스 [YES!](https://github.com/Leets-Official/Yes-BE)
 
+## 📝 My Certificates
+- SQLD(SQL Developer) (2025.04)
+
 <br>
 
 <p align="center">
