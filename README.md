@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>✨어서오세요!! 저는 백엔드 개발자를 희망하는 한승현입니다.✨</h2>
+  <h2>✨어서오세요!! 저는 뛰어난 IT인재를 위해 노력하는 한승현입니다.✨</h2>
 </div>
 
 <p align="center">
@@ -20,12 +20,19 @@
   <img src="https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/elasticsearch-green?style=for-the-badge&logo=elasticsearch"/>
+  <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=for-the-badge&logo=oculus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KakaoCloud-yellow?style=for-the-badge&logo=kakao&logoColor=black"/>
 </div>
 
 ## 💻 My Projects
 - 깃허브 커밋 기록 관리 서비스 [Commitato](https://github.com/Leets-Official/commitato-BE)
 - 가천대학교 전용 중고거래 서비스 [Monngchee](https://github.com/Moong-Chee/MoongChee-BE)
 - 온라인 초대장 서비스 [YES!](https://github.com/Leets-Official/Yes-BE)
+- 트렌드를 쫓는 사람들의 아이디어가 빛나는 공간 [Trendist](https://github.com/orgs/HIGHFIVE-SW/repositories) (By Team [HighFive](https://github.com/HIGHFIVE-SW))
 
 ## 📝 My Certificates
 - SQLD(SQL Developer) (2025.04)
