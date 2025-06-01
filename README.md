@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>✨어서오세요!! 저는 뛰어난 IT인재를 위해 노력하는 한승현입니다.✨</h2>
+  <h2>✨어서오세요!! 저는 뛰어난 IT 인재가 되기 위해 노력하는 한승현입니다.✨</h2>
 </div>
 
 <p align="center">
@@ -30,7 +30,6 @@
 
 ## 💻 My Projects
 - 깃허브 커밋 기록 관리 서비스 [Commitato](https://github.com/Leets-Official/commitato-BE)
-- 가천대학교 전용 중고거래 서비스 [Monngchee](https://github.com/Moong-Chee/MoongChee-BE)
 - 온라인 초대장 서비스 [YES!](https://github.com/Leets-Official/Yes-BE)
 - 트렌드를 쫓는 사람들의 아이디어가 빛나는 공간 [Trendist](https://github.com/orgs/HIGHFIVE-SW/repositories) (By Team [HighFive](https://github.com/HIGHFIVE-SW))
 
