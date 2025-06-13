@@ -35,6 +35,7 @@
 
 ## 📝 My Certificates
 - SQLD(SQL Developer) (2025.04)
+- 정보처리기사 (2025.06)
 
 <br>
 
