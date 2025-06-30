@@ -10,7 +10,7 @@
 - 가천대학교 컴퓨터공학과 ( 2020.3 ~ )
 - 가천대학교 IT 학술동아리 LEETS 3기 서버 ( 2024.03 ~ 2024.07 )
 - 가천대학교 IT 학술동아리 LEETS 4기 서버 ( 2024.07 ~ 2025.02 )
-- 카카오엔터프라이즈 SW 아카데미 6기 (2025.03 ~ )
+- 카카오엔터프라이즈 SW 아카데미 6기 ( 2025.03 ~ 2025.06 )
 
 <h2>🔙🔚 My Main Skills</h2>
 <div>
@@ -24,6 +24,7 @@
   <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=for-the-badge&logo=oculus&logoColor=white"/>
   <img src="https://img.shields.io/badge/KakaoCloud-yellow?style=for-the-badge&logo=kakao&logoColor=black"/>
 </div>
