@@ -32,7 +32,7 @@
 ## 💻 My Projects
 - 깃허브 커밋 기록 관리 서비스 [Commitato](https://github.com/Leets-Official/commitato-BE)
 - 온라인 초대장 서비스 [YES!](https://github.com/Leets-Official/Yes-BE)
-- 트렌드를 쫓는 사람들의 아이디어가 빛나는 공간 [Trendist](https://github.com/orgs/HIGHFIVE-SW/repositories) (By Team [HighFive](https://github.com/HIGHFIVE-SW))
+- 트렌드를 쫓는 사람들의 아이디어가 빛나는 공간 [Trendist](https://github.com/orgs/HIGHFIVE-SW) (By Team HighFive)
 
 ## 📝 My Certificates
 - SQLD(SQL Developer) (2025.04)
