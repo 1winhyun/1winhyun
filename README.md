@@ -36,6 +36,8 @@
 - 깃허브 커밋 기록 관리 서비스 [Commitato](https://github.com/Leets-Official/commitato-BE)
 - 온라인 초대장 서비스 [YES!](https://github.com/Leets-Official/Yes-BE)
 - 트렌드를 쫓는 사람들의 아이디어가 빛나는 공간 [Trendist](https://github.com/orgs/HIGHFIVE-SW) (By Team HighFive)
+- Leets 전용 커뮤니티 앱, 우리가 연결되는 순간 [Leenk](https://github.com/Leets-Makers/Leenk-BE)
+- 어디서든 스스로 챙기는 학생회 제휴 [CampUS](https://github.com/our-campUS/our-campUS-BE)
 
 ## 📝 My Certificates
 - SQLD(SQL Developer) (2025.04)
