@@ -47,7 +47,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=1winhyun&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&hide=contribs" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=1winhyun&show_icons=true&theme=radical&hide_border=true&hide=contribs" />
 </p>
 
 <!--
