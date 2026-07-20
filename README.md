@@ -34,22 +34,23 @@
   <img src="https://img.shields.io/badge/KakaoCloud-yellow?style=for-the-badge&logo=kakao&logoColor=black"/>
 </div>
 
+## ✏️ My Projects Portfolio
+[저의 프로젝트 경험들을 정리한 포트폴리오입니다.](https://1winhyun.notion.site/2f3885ef28218010a696d78093af5e72?source=copy_link)
+
 ## 💻 My Projects
 - 깃허브 커밋 기록 관리 서비스 [Commitato](https://github.com/Leets-Official/commitato-BE)
 - 온라인 초대장 서비스 [YES!](https://github.com/Leets-Official/Yes-BE)
 - 트렌드를 쫓는 사람들의 아이디어가 빛나는 공간 [Trendist](https://github.com/orgs/HIGHFIVE-SW) (By Team HighFive)
 - Leets 전용 커뮤니티 앱, 우리가 연결되는 순간 [Leenk](https://github.com/Leets-Makers/Leenk-BE)
 - 어디서든 스스로 챙기는 학생회 제휴 [CampUS](https://github.com/our-campUS/our-campUS-BE)
+- 대학교 축제 부스, 주점 통합 관리 서비스 [HOTSPOT](https://www.hotspot.place/)
 
 ## 📝 My Certificates
 - SQLD(SQL Developer) (2025.04)
 - 정보처리기사 (2025.06)
+- Toeic Speaking Test - Advanced Low(AL) (2026.06)
 
 <br>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=1winhyun&show_icons=true&theme=radical&hide_border=true&hide=contribs" />
-</p>
 
 <!--
 **1winhyun/1winhyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
